@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+
+h5 {
+  font-size:20px;
+  background-color:#00719c;
+  color: orange;
+  padding:5px;
+  text-align: center;
+}

@@ -1,0 +1,23 @@
+footer {
+  display:flex;
+  min-height: 10vh;
+  justify-content:center;
+  align-items:center;
+  color:white;
+  background-color:#00415a;
+}
+.icon, p {
+  display:inline-block;
+  margin:0 5px;
+}
+
+.icon {
+  margin-bottom:0;
+  height:50px;
+}
+a {
+  display:flex;
+  text-decoration:none;
+  color:white;
+  align-items:center;
+}

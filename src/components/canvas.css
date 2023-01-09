@@ -1,0 +1,14 @@
+.canvas {
+  min-height: 80vh;
+  display: flex;
+  flex-direction:row;
+  background-color: #00719c;
+  justify-content:center;
+  align-items:flex-end;
+}
+
+.bar {
+  display: inline-block;
+  margin-bottom: 0;
+  border-radius:10px;
+}
